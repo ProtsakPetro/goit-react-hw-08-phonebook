@@ -2,8 +2,8 @@
   "name": "goit-react-hw-08-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://protsakpetro.github.io/ProtsakPetro/goit-react-hw-08-phonebook/",
-  "dependencies": {
+  "homepage": "/ProtsakPetro/goit-react-hw-08-phonebook/",
+    "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.16",
