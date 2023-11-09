@@ -4,7 +4,7 @@ import PublicRoutes from 'quards/PublicRoutes/PublicRoutes';
 import { Route, Routes } from 'react-router-dom';
 import { Backdrop, CircularProgress, ThemeProvider } from '@mui/material';
 import { Loader } from './Loader/Loader';
-import { theme } from '../reduxe/theme/theme';
+import { theme } from '../theme/theme';
 import Error from './Error/Error';
 import { Suspense, lazy, useEffect } from 'react';
 import { useDispatch } from 'react-redux';
