@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProtsakPetro/goit-react-hw-08-phonebook/static/css/main.827a20e1.css",
-    "main.js": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/main.21170015.js",
+    "main.js": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/main.d85945da.js",
     "static/js/680.c0a011ee.chunk.js": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/680.c0a011ee.chunk.js",
     "static/js/866.3b4802a5.chunk.js": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/866.3b4802a5.chunk.js",
     "static/js/243.37e60eae.chunk.js": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/243.37e60eae.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/667.2e5b2fd1.chunk.js": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/667.2e5b2fd1.chunk.js",
     "index.html": "/ProtsakPetro/goit-react-hw-08-phonebook/index.html",
     "main.827a20e1.css.map": "/ProtsakPetro/goit-react-hw-08-phonebook/static/css/main.827a20e1.css.map",
-    "main.21170015.js.map": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/main.21170015.js.map",
+    "main.d85945da.js.map": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/main.d85945da.js.map",
     "680.c0a011ee.chunk.js.map": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/680.c0a011ee.chunk.js.map",
     "866.3b4802a5.chunk.js.map": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/866.3b4802a5.chunk.js.map",
     "243.37e60eae.chunk.js.map": "/ProtsakPetro/goit-react-hw-08-phonebook/static/js/243.37e60eae.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.827a20e1.css",
-    "static/js/main.21170015.js"
+    "static/js/main.d85945da.js"
   ]
 }
