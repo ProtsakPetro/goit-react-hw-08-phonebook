@@ -1,4 +1,19 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
+
+::-webkit-scrollbar {
+  width: 18px;
+}
+
+::-webkit-scrollbar-track {
+  background: linear-gradient(90deg, rgb(105, 104, 105) 0%, rgb(176, 176, 177) 50%, rgb(133, 132, 132) 100%);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(5, 5, 5, 0.2);
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
 
 body {
   margin: 0;
@@ -7,9 +22,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(90deg, rgb(56, 56, 56) 0%, rgb(103, 106, 113) 50%, rgb(39, 38, 38) 100%);
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  font-weight: 500;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
