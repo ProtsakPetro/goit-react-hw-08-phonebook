@@ -27,6 +27,7 @@ const ContactListItem = ({ contacts }) => {
           bgcolor: '#f7faff',
           borderRadius: '15px',
           mb: '10px',
+          paddingLeft:'30px',
         }}
         secondaryAction={
           <Box
@@ -69,7 +70,7 @@ const ContactListItem = ({ contacts }) => {
             setContactEditing(null);
           }}
           noValidate
-          sx={{ mt: 1, display: 'flex', maxWidth: '300px', gap: '10px' }}
+          sx={{ mt: 1, display: 'flex', maxWidth: '300px', gap: '30px', marginLeft:'20px'  }}
         >
           <TextField
             name="contactName"
@@ -91,9 +92,9 @@ const ContactListItem = ({ contacts }) => {
     ) : (
       <ListItem
         key={id}
-        sx={{ bgcolor: '#f7faff', borderRadius: '15px', mb: '10px' }}
+        sx={{ bgcolor: '#f7faff', borderRadius: '15px', mb: '10px',  }}
         secondaryAction={
-          <Box sx={{ display: 'flex', gap: '10px' }}>
+          <Box sx={{ display: 'flex', gap: '30px', paddingRight:'30px',}}>
             <IconButton
               edge="end"
               aria-label="delete"
