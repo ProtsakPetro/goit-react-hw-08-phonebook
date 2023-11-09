@@ -19,7 +19,7 @@ const ContactsPage = () => {
         backgroundColor: '#9a9898',
         borderRadius: '15px',
         boxShadow: 'rgba(0, 0, 0, 0.7)',
-        marginTop: '150px',
+        marginTop: '50px',
         padding: '30px',
         width: '1000px',
              }}
